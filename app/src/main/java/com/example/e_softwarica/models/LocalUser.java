@@ -5,6 +5,7 @@ import java.util.List;
 
 public class LocalUser {
 
+    int a;
     static List<LocalUser> userList=new ArrayList<>();
     private int imageId;
     private String name;
